@@ -5,15 +5,11 @@ This project aims to detect fraudulent credit card transactions using machine le
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Models](#models)
   - [Logistic Regression](#logistic-regression)
   - [Random Forest](#random-forest)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
