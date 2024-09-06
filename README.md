@@ -20,9 +20,6 @@ Fraud is a significant issue in many industries, especially in financial service
 The dataset contains transactions made by European cardholders in September 2013. It is highly imbalanced, with only 0.172% of the transactions being fraudulent.
 You can find and download the dataset from [Kaggle's Credit Card Fraud Detection page](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
-
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
 - **Features:**
   - `Time`: The time of the transaction, in seconds from the first transaction.
   - `Amount`: The transaction amount.
