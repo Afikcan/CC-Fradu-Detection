@@ -35,13 +35,6 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The dataset is pre-processed to handle imbalances and scaled to ensure proper training of machine learning models.
 
-## Project Structure
-
-- `CC_Fraud_Detection.ipynb`: Jupyter notebook containing the data analysis, model training, and evaluation.
-- `data/`: Folder containing the credit card fraud dataset.
-- `models/`: Folder to save trained machine learning models.
-- `README.md`: This file.
-
 
 ## Usage
 
