@@ -13,6 +13,9 @@
 
 This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset used for this analysis contains anonymized features from real-world credit card transactions, including both legitimate and fraudulent transactions. The goal is to build a model that can accurately classify transactions as fraudulent or not.
 
+For more detailed information about the approach, methodology, and analysis, you can also check out the [project paper](CC_Fraud_Detection.pdf) I wrote.
+
+
 ## Dataset
 
 The dataset contains transactions made by European cardholders in September 2013. It is highly imbalanced, with only 0.172% of the transactions being fraudulent.
